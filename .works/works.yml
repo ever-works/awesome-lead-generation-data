@@ -1,0 +1,31 @@
+company_name: "Awesome Lead Generation"
+content_table: true
+item_name: Item
+items_name: Items
+paging_mode: paging
+copyright_year: 2026
+name: "Awesome Lead Generation"
+initial_prompt: "A curated directory of B2B contact data, enrichment APIs, intent data and prospecting tools. Include products such as Apollo.io, ZoomInfo, Clay, Hunter, Lusha, Cognism, RocketReach, Seamless.AI, People Data Labs, Snov.io, Kaspr, Breeze Intelligence (Clearbit), plus other notable commercial and open-source options. Categories: B2B Contact Data, Data Enrichment APIs, Intent Data, Lead Capture, Prospecting Extensions, Open Source. For every item capture the official website, a short factual description, pricing model (free, freemium, paid, open source), deployment (cloud or self-hosted), key features and integrations."
+providers:
+  ai: openrouter
+  search: tavily
+  pipeline: agent-pipeline
+  contentExtractor: local-content-extractor
+website_repo: "ever-works/awesome-lead-generation-website"
+company_website: "https://lead-generation.ever.works"
+settings:
+  categories_enabled: true
+  companies_enabled: true
+  tags_enabled: true
+  collections_enabled: true
+  surveys_enabled: true
+  import_enabled: false
+  export_enabled: false
+  import_max_rows: 500
+pagination:
+  type: standard
+  itemsPerPage: 12
+custom_menu:
+  header: []
+  footer: []
+version: 0.1.0

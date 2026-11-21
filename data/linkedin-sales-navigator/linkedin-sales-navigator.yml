@@ -1,0 +1,13 @@
+name: "LinkedIn Sales Navigator"
+description: "LinkedIn Sales Navigator is a prospecting tool built on LinkedIn's professional network for finding and engaging B2B buyers. It offers advanced lead and company search, lead recommendations, and CRM integration. Paid subscriptions are required for full features."
+source_url: "https://www.linkedin.com/sales"
+category: "B2B Contact Data"
+tags:
+  - "b2b-contact-data"
+  - "prospecting-extensions"
+  - "paid"
+  - "enterprise"
+  - "social-selling"
+icon_url: "https://icons.duckduckgo.com/ip3/www.linkedin.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.linkedin.com/sales>\n"
+updated_at: "2026-11-21 11:49"

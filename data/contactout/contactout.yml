@@ -1,0 +1,13 @@
+name: "ContactOut"
+description: "ContactOut is a B2B contact search engine and Chrome extension for finding personal and work emails. It indexes public profiles and provides phone numbers for recruiting and sales outreach. Free and paid plans are offered."
+source_url: "https://contactout.com/"
+category: "Prospecting Extensions"
+tags:
+  - "prospecting-extensions"
+  - "b2b-contact-data"
+  - "freemium"
+  - "paid"
+  - "chrome-extension"
+icon_url: "https://icons.duckduckgo.com/ip3/contactout.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://contactout.com/>\n"
+updated_at: "2026-11-21 11:49"

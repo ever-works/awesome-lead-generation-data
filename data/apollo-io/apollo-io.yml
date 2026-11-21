@@ -1,0 +1,13 @@
+name: "Apollo.io"
+description: "Apollo.io is a B2B sales intelligence and engagement platform offering a contact database, email sequencing, and prospecting tools. It helps sales and marketing teams find leads and automate outreach. Pricing includes a free tier and paid plans."
+source_url: "https://apollo.io/"
+category: "B2B Contact Data"
+tags:
+  - "b2b-contact-data"
+  - "api"
+  - "ai-powered"
+  - "freemium"
+  - "paid"
+icon_url: "https://icons.duckduckgo.com/ip3/apollo.io.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://apollo.io/>\n"
+updated_at: "2026-11-21 11:49"

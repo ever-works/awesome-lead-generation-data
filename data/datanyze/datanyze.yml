@@ -1,0 +1,13 @@
+name: "Datanyze"
+description: "Datanyze is a technographics and contact data provider offering a Chrome extension for prospecting. It reveals the technologies used by websites and provides contact details for decision-makers. Freemium and paid plans are offered."
+source_url: "https://www.datanyze.com/"
+category: "Prospecting Extensions"
+tags:
+  - "prospecting-extensions"
+  - "technographics"
+  - "freemium"
+  - "paid"
+  - "chrome-extension"
+icon_url: "https://icons.duckduckgo.com/ip3/www.datanyze.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.datanyze.com/>\n"
+updated_at: "2026-11-21 11:49"

@@ -1,0 +1,12 @@
+- id: b2b-contact-data
+  name: "B2B Contact Data"
+- id: data-enrichment-apis
+  name: "Data Enrichment APIs"
+- id: intent-data
+  name: "Intent Data"
+- id: lead-capture
+  name: "Lead Capture"
+- id: prospecting-extensions
+  name: "Prospecting Extensions"
+- id: open-source
+  name: "Open Source"

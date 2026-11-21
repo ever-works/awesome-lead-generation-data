@@ -1,0 +1,13 @@
+name: "RocketReach"
+description: "RocketReach is a contact lookup platform that provides email addresses and phone numbers for professionals and companies. It features a search engine, browser extension, and API for bulk lookups. Paid subscriptions unlock higher lookup limits."
+source_url: "https://rocketreach.co/"
+category: "B2B Contact Data"
+tags:
+  - "b2b-contact-data"
+  - "prospecting-extensions"
+  - "api"
+  - "paid"
+  - "freemium"
+icon_url: "https://icons.duckduckgo.com/ip3/rocketreach.co.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://rocketreach.co/>\n"
+updated_at: "2026-11-21 11:49"

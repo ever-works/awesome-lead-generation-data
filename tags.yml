@@ -1,0 +1,50 @@
+- id: b2b-contact-data
+  name: "B2B Contact Data"
+- id: api
+  name: "API"
+- id: ai-powered
+  name: "AI-Powered"
+- id: freemium
+  name: "Freemium"
+- id: paid
+  name: "Paid"
+- id: intent-data
+  name: "Intent Data"
+- id: enterprise
+  name: "Enterprise"
+- id: data-enrichment-apis
+  name: "Data Enrichment APIs"
+- id: lead-capture
+  name: "Lead Capture"
+- id: chrome-extension
+  name: "Chrome Extension"
+- id: prospecting-extensions
+  name: "Prospecting Extensions"
+- id: gdpr
+  name: "GDPR"
+- id: developer-tools
+  name: "Developer Tools"
+- id: email-verification
+  name: "Email Verification"
+- id: social-selling
+  name: "Social Selling"
+- id: website-visitor-identification
+  name: "Website Visitor Identification"
+- id: identity-resolution
+  name: "Identity Resolution"
+- id: technographics
+  name: "Technographics"
+- id: open-source
+  name: "Open Source"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: marketing-automation
+  name: "Marketing Automation"
+- id: free-plan
+  name: "Free Plan"
+- id: web-scraping
+  name: "Web Scraping"
+- id: data-collection
+  name: "Data Collection"
+- id: python
+  name: "Python"

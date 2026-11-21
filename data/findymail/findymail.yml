@@ -1,0 +1,13 @@
+name: "Findymail"
+description: "Findymail is an email finder and verifier for B2B prospecting, available as a web app and Chrome extension. It extracts emails from LinkedIn and Sales Navigator and verifies deliverability. Paid plans with a free trial are available."
+source_url: "https://findymail.com/"
+category: "Prospecting Extensions"
+tags:
+  - "prospecting-extensions"
+  - "email-verification"
+  - "paid"
+  - "freemium"
+  - "chrome-extension"
+icon_url: "https://icons.duckduckgo.com/ip3/findymail.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://findymail.com/>\n"
+updated_at: "2026-11-21 11:49"

@@ -1,0 +1,13 @@
+name: "Kaspr"
+description: "Kaspr is a B2B prospecting tool that reveals phone numbers and email addresses from LinkedIn via a Chrome extension. It integrates with CRMs and automation platforms to push lead data directly into sales workflows. Freemium and paid plans are available."
+source_url: "https://kaspr.io/"
+category: "Prospecting Extensions"
+tags:
+  - "prospecting-extensions"
+  - "b2b-contact-data"
+  - "freemium"
+  - "paid"
+  - "chrome-extension"
+icon_url: "https://icons.duckduckgo.com/ip3/kaspr.io.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://kaspr.io/>\n"
+updated_at: "2026-11-21 11:49"

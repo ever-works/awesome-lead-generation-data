@@ -1,0 +1,13 @@
+name: "Lusha"
+description: "Lusha provides B2B contact data, including phone numbers and emails, through a web platform and browser extension. It is used by sales teams to find prospects and enrich CRM records. Plans range from free to paid tiers."
+source_url: "https://lusha.com/"
+category: "Prospecting Extensions"
+tags:
+  - "prospecting-extensions"
+  - "b2b-contact-data"
+  - "freemium"
+  - "paid"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/lusha.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://lusha.com/>\n"
+updated_at: "2026-11-21 11:49"

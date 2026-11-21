@@ -1,0 +1,13 @@
+name: "Hunter"
+description: "Hunter is an email finder and verifier that helps users locate professional email addresses associated with a domain. It offers a Chrome extension, bulk tasks, and API access for lead capture. A free plan with limited searches is available."
+source_url: "https://hunter.io/"
+category: "Lead Capture"
+tags:
+  - "lead-capture"
+  - "api"
+  - "freemium"
+  - "paid"
+  - "chrome-extension"
+icon_url: "https://icons.duckduckgo.com/ip3/hunter.io.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://hunter.io/>\n"
+updated_at: "2026-11-21 11:49"

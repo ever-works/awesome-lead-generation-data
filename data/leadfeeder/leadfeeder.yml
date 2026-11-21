@@ -1,0 +1,13 @@
+name: "Leadfeeder"
+description: "Leadfeeder identifies companies visiting a website by tracking IP addresses and integrating with Google Analytics. It turns anonymous website traffic into actionable leads for sales teams. A freemium model and paid plans are available."
+source_url: "https://www.leadfeeder.com/"
+category: "Intent Data"
+tags:
+  - "intent-data"
+  - "lead-capture"
+  - "freemium"
+  - "paid"
+  - "website-visitor-identification"
+icon_url: "https://icons.duckduckgo.com/ip3/www.leadfeeder.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.leadfeeder.com/>\n"
+updated_at: "2026-11-21 11:49"

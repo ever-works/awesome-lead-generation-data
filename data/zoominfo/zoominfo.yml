@@ -1,0 +1,13 @@
+name: "ZoomInfo"
+description: "ZoomInfo provides B2B contact and company data, including direct dials and email addresses, for sales and marketing teams. It offers advanced search, intent signals, and CRM integrations. The platform is aimed at enterprise customers."
+source_url: "https://www.zoominfo.com/"
+category: "B2B Contact Data"
+tags:
+  - "b2b-contact-data"
+  - "intent-data"
+  - "enterprise"
+  - "api"
+  - "paid"
+icon_url: "https://icons.duckduckgo.com/ip3/www.zoominfo.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.zoominfo.com/>\n"
+updated_at: "2026-11-21 11:49"

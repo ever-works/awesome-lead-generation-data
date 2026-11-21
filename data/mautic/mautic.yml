@@ -1,0 +1,13 @@
+name: "Mautic"
+description: "Mautic is an open-source marketing automation platform for lead capture, email campaigns, and contact management. It can be self-hosted and includes form builders, landing pages, and lead tracking. The community edition is free under the GNU GPL license."
+source_url: "https://www.mautic.org/"
+category: "Open Source"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "lead-capture"
+  - "marketing-automation"
+  - "free-plan"
+icon_url: "https://icons.duckduckgo.com/ip3/www.mautic.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://www.mautic.org/>\n- Repository: <https://github.com/mautic/mautic>\n\nLicense: GNU General Public License v2.0.\n"
+updated_at: "2026-11-21 11:49"

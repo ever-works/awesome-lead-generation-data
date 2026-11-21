@@ -1,0 +1,13 @@
+name: "Bombora"
+description: "Bombora is a B2B intent data provider that tracks business research behavior across a network of websites. It identifies companies showing interest in specific topics to help sales teams prioritize accounts. Data is delivered via integrations and APIs."
+source_url: "https://www.bombora.com/"
+category: "Intent Data"
+tags:
+  - "intent-data"
+  - "enterprise"
+  - "api"
+  - "paid"
+  - "b2b-contact-data"
+icon_url: "https://icons.duckduckgo.com/ip3/www.bombora.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.bombora.com/>\n"
+updated_at: "2026-11-21 11:49"
